@@ -1,0 +1,37 @@
+====== Raumplanung ======
+
+'''Freitag, 14.Juli 2017, 09.00 bis 13.30 Uhr, Universität Passau, Gebäude HK 12, Dr.-Hans-Kapfinger-Str. 12, Raum 001 + Foyer'''
+
+
+Räume könnnen bei der Universitäts Raumplanung reserviert werden.
+
+Tel.: __0851 123456789__ [ ]   
+
+**Mindestens 3 Wochen** vorher anrufen.
+
+Außerdem muss ein Putzdienst organisiert werden. Möglichkeit bei der Universitäts Reinigung anzufragen.
+
+Tel.: __0851 987654321__ [erledigt]
+
+
+'''HELFER SPÄTESTENS UM 7:30 VOR ORT SEIN FÜR FINALE BESPRECHUNG.'''
+
+
+===Momentaner Plan:===
+
+
+
+
+ 
+^ Zeit            ^ Foyer                  ^ Raum 001|^ Catering Raum ^   
+| **09.00-09.15**    | Empfang                | || |
+| **09.20-09.50**    | Ordnungsteam           | Wissensmanagement im Spannungsfeld von technologischen Trends und theoretischen Ansprüchen Prof. Dr. Franz Lehner, Universität Passau || |            
+| **09.50-10.20**    |  | IT-Komplexität im Kontext digitaler Geschäftsmodelle Prof. Dr. Thomas Widjaja, Universität Passau        || Aufbau Catering |
+| **10.20-10.40** | PAUSE | PAUSE || Aufbau Catering |
+| **10.40-11.10** | | Digitale Ordnungspolitik: Ökonomisch und technisch sinnvolle Spielregeln für die Internetwirtschaft Prof. Dr. Jan Krämer, Universität Passau || |
+| **11.10-11.40** | | Open Acess- Der Zugang zu Daten als entscheidender Wettbewerbsfaktor in digitalen Plattformmärkten Dr. Daniel Schnurr, Forschungsgruppe Data Policies, Universität Passau || Lieferung Catering | 
+| **11.40-12.00** | PAUSE | PAUSE || Ausgabe Essen |
+| **12.00-12.30** | | Kulturwirtschaftsinformatik - von Passau nach München (mit Umwegen) Gastvortrag von Stefanie Biegel, Alumna der Universität Passau, Firma Seimens AG || |
+| **12.30-13.00** | | Wirtschaftsinformatik im Wandel der Digitalisierung? Gastvortrag von Shinja Strasser, msg systems ag || Ausgabe Essen |
+| **13.00-13.30** | Empfang im Foyer | || Ausgabe Essen |
+| **13.30-15.00** | Foyer Reinigung | Abbau Vortragsraum || Abbau Catering | 
